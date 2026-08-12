@@ -68,7 +68,6 @@ int main(){
         scanf("%d",&x);
         push(s1,x);
     }
-
     for(int i=0;i<=s1->top;i++){
         printf("%d ",s1->parr[i]);
     }
