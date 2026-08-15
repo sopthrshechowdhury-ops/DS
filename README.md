@@ -5,5 +5,7 @@ Topics Coverd:
 2.Stack Implementation
 3.Sorting Algorithym
 4.Recursion Varients
-5. Queue
+5.Queue
 6.Tree
+7.Link List
+8.Home Tasks
